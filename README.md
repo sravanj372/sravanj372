@@ -22,7 +22,7 @@ I am eager to explore new technologies, enhance my backend expertise, and contri
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sravan-kumar-jalapati-333958235/"><img align="left" src="https://raw.githubusercontent.com/sravanj372/sravanj372/main/linkedin.svg" alt="sravan | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sravan-kumar-jalapati-333958235/"><img align="left" src="https://github.com/sravanj372/sravanj372/blob/main/linkedin.svg" alt="sravan | LinkedIn" width="21px"/></a>
 </br>
 </br>
 
